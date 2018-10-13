@@ -1,0 +1,21 @@
+
+<resources>
+    <color name="photo_placeholder">#ccc</color>
+    <color name="theme_primary">#04561A</color>
+    <color name="theme_primary_dark">#04561A</color>
+    <color name="theme_accent">#04561A</color>
+    <color name="ltgray">#ffe0e0e0</color>
+    <color name="dkgray">#505050</color>
+    <color name="primary_material_light_1">#625f5f</color>
+    <color name="primary_material_light">#504f4f</color>
+    <color name="primary_dark_material_light">#232222</color>
+    <color name="background_material_light">#323131</color>
+    <color name="accent_material_light">#afaca2</color>
+    <color name="primary_text_material_dark">#9e9999</color>
+    <color name="foreground_material_dark">#868080</color>
+    <color name="color_primary">#2e3133</color>
+    <color name="color_primary_dark">#3f4447</color>
+    <color name="color_accent">#889ca8</color>
+    <color name="textColorPrimary">#2c3033</color>
+    <color name="textColorSecondary">#e1e9ef</color>
+</resources>
